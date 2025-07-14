@@ -1,0 +1,63 @@
+## Build results
+bin/
+obj/
+out/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vsp
+*.vspx
+*.dbmdl
+*.pdb
+
+## Rider
+.idea/
+
+## VS Code
+.vscode/
+
+## Visual Studio
+.vs/
+
+## NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Entity Framework
+Migrations/
+
+## ASP.NET
+wwwroot/lib/
+wwwroot/node_modules/
+
+## Logs
+*.log
+
+## Coverage
+TestResults/
+*.coverage
+*.coveragexml
+coverage/
+
+## Publish
+publish/
+app.publish/
+
+## Others
+_ReSharper*/
+*.resharper
+*.DotSettings.user
+*.orig
+
+## macOS/Linux specific
+.DS_Store
+*.swp
+*.swo
